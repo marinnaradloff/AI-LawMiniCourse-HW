@@ -2,5 +2,5 @@ The first step included importing all of the data. The data was then downloaded 
 
 Madeleine Tavcar
 Marinna Radloff
-Nichole Hathorn# AI-Law-Minicourse-HW
+Nichol Hathorn# AI-Law-Minicourse-HW
 

@@ -1,0 +1,2 @@
+# AI-LawMiniCourse-HW
+Homework
